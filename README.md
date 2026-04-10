@@ -1,6 +1,6 @@
-# SISApp-py V2🎓
+# SISApp-py🎓
 
-Welcome to **SISApp-pyV2**! This is a simple yet functional Student Information System built using Python. It's a database application using only locally stored CSV files.
+Welcome to **SISApp-py**! This is a simple yet functional Student Information System built using Python. It's a database application using only locally stored CSV files.
 
 
 ## 🚀 What it Does
